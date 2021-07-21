@@ -1,0 +1,38 @@
+*{
+    font-size: 18px;
+    color: black;
+}
+.product-card {
+    background-color: #ccc;
+    width: 400px;
+    height: 200px;
+    margin-bottom: 16px;
+    margin-right: 16px;
+    font-size: 2em;
+
+    display: flex;
+}
+
+.poster-card {
+    width: 150px;
+    height: 200px;
+    margin-right: 5px;
+}
+
+.product-card h1 {
+    font-size: 1em;
+    font-weight: 700;
+    margin-bottom: 10px;
+    color: black;
+}
+.product-card h2 {
+    font-size: 0.8em;
+    font-weight: 300;
+    margin-bottom: 5px;
+}
+
+.product-card h3{
+    font-size: 0.6em;
+    font-weight: 200;
+    font-style: italic;   
+}
